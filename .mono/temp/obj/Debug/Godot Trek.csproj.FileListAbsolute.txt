@@ -1,0 +1,6 @@
+/home/tyler/Projects/Godot Trek/.mono/temp/bin/Debug/Godot Trek.dll
+/home/tyler/Projects/Godot Trek/.mono/temp/bin/Debug/Godot Trek.pdb
+/home/tyler/Projects/Godot Trek/.mono/temp/obj/Debug/Godot Trek.csprojAssemblyReference.cache
+/home/tyler/Projects/Godot Trek/.mono/temp/obj/Debug/Godot Trek.csproj.CoreCompileInputs.cache
+/home/tyler/Projects/Godot Trek/.mono/temp/obj/Debug/Godot Trek.dll
+/home/tyler/Projects/Godot Trek/.mono/temp/obj/Debug/Godot Trek.pdb
